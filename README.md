@@ -7,7 +7,7 @@ This plugin supports macOS 12 or later.
 ![helloworld](docs/videos/helloworld.gif)  
 
 # Installation
-Download AppEventMonitor.unitypakcage from the release page and install it in your project.  
+Download [AppEventMonitor.unitypakcage](https://github.com/fuziki/UnityAppEventMonitor/releases/download/0.1.0/AppEventMonitor.unitypackage) from the release page and install it in your project.  
 To allow monitoring of keyboard input in the background, you need to add Unity to Accessibility.  
 Open `System Preferences` > `Security & Privacy` > `Privacy` > `Accessibility` and add `Unity.app`.  
 (And `Unity Hub.app` if you use)  
