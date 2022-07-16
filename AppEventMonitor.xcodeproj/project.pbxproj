@@ -6,10 +6,15 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXFileReference section */
+		52DBF8CE288281920078D495 /*  */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "UnityAppEventMonitor"; path = .; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		52DBF8C7288280140078D495 = {
 			isa = PBXGroup;
 			children = (
+				52DBF8CE288281920078D495 /*  */,
 			);
 			sourceTree = "<group>";
 		};
