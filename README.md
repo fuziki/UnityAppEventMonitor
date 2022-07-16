@@ -1,7 +1,7 @@
 # UnityAppEventMonitor
 
 Unity Native Plugin for [NSEvent.addGlobalMonitorForEvents](https://developer.apple.com/documentation/appkit/nsevent/1535472-addglobalmonitorforevents).  
-Receive keyboard input even when your Unity application is in the background with no focus.  
+Receive keyboard input even when Unity.app is in the background with no focus.  
 This plugin supports macOS 12 or later.  
 
 ![helloworld](docs/videos/helloworld.gif)  
