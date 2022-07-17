@@ -14,6 +14,26 @@ Open `System Preferences` > `Security & Privacy` > `Privacy` > `Accessibility` a
 
 ![accessibility](docs/images/accessibility.png)  
 
+# Feature
+## Keyboard Events
+- [x] key down
+- [ ] key up
+- [ ] modifier key
+
+## Mouse Events
+- [ ] left mouse down
+- [ ] left mouse dragged
+- [ ] left mouse up
+- [ ] right mouse down
+- [ ] right mouse dragged
+- [ ] right mouse up
+- [ ] mouse moved
+- [ ] scroll wheel
+
+## Touch Events
+- [ ] begin gesture
+- [ ] end gesture
+
 # Usage
 
 Include package.
