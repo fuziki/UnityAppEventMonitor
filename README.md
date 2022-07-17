@@ -94,3 +94,7 @@ public class Cube : MonoBehaviour
     }
 }
 ```
+
+# Example Projects
+- [Unity](Examples/UnityAppEventMonitor)  
+- [Native](Examples/NativeExample)
