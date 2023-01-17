@@ -22,7 +22,14 @@ This GIF shows that unity can detect keys entered into TextEdit.
 * macOS 12+ (Apple Silicon and Intel)
 
 # Installation
-Download [AppEventMonitor.unitypakcage](https://github.com/fuziki/UnityAppEventMonitor/releases/download/0.1.0/AppEventMonitor.unitypackage) from the release page and install it in your project.  
+## Unity Pakcage Manager (UPM)
+Select "Add package form git URL" in the Unity Package Manager and enter the following path.
+[https://github.com/fuziki/UnityAppEventMonitor.git?path=Examples/UnityAppEventMonitor/Assets/Plugins/AppEventMonitor](https://github.com/fuziki/UnityAppEventMonitor.git?path=Examples/UnityAppEventMonitor/Assets/Plugins/AppEventMonitor)
+
+## Copy Source
+Copy and paste [Examples/UnityAppEventMonitor/Assets/Plugins/AppEventMonitor](Examples/UnityAppEventMonitor/Assets/Plugins/AppEventMonitor) into your Unity project.
+
+## Accessibility
 To allow monitoring of keyboard input in the background, you need to add Unity to Accessibility.  
 Open `System Preferences` > `Security & Privacy` > `Privacy` > `Accessibility` and add `Unity.app`.  
 (And `Unity Hub.app` if you use)  
