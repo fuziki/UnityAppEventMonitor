@@ -1,10 +1,20 @@
 # UnityAppEventMonitor
 
-Unity Native Plugin for [NSEvent.addGlobalMonitorForEvents](https://developer.apple.com/documentation/appkit/nsevent/1535472-addglobalmonitorforevents).  
+[Unity Native Plugin](https://docs.unity3d.com/Manual/NativePlugins.html) for [NSEvent.addGlobalMonitorForEvents](https://developer.apple.com/documentation/appkit/nsevent/1535472-addglobalmonitorforevents).  
 Receive keyboard input even when Unity.app is in the background with no focus.  
-This plugin supports macOS 12 or later.  
+Works only on macOS.  
 
-![helloworld](docs/videos/helloworld.gif)  
+<img src="docs/videos/helloworld.gif" width="800">  
+
+# Requirements
+## Unity
+* Unity 2020.X
+* Unity 2021.X
+* Unity 2022.X
+* Unity 2022.2+ (Apple Silicon)
+
+## Platforms
+* macOS 12+ (Apple Silicon and Intel)
 
 # Installation
 Download [AppEventMonitor.unitypakcage](https://github.com/fuziki/UnityAppEventMonitor/releases/download/0.1.0/AppEventMonitor.unitypackage) from the release page and install it in your project.  
@@ -12,7 +22,7 @@ To allow monitoring of keyboard input in the background, you need to add Unity t
 Open `System Preferences` > `Security & Privacy` > `Privacy` > `Accessibility` and add `Unity.app`.  
 (And `Unity Hub.app` if you use)  
 
-![accessibility](docs/images/accessibility.png)  
+<img src="docs/images/accessibility.png" width="600">  
 
 # Feature
 ## Keyboard Events
