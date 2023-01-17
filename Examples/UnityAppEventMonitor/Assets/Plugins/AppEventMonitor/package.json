@@ -1,0 +1,11 @@
+{
+    "name": "com.github.fuziki.UnityAppEventMonitor",
+    "version": "0.1.0",
+    "displayName": "UnityAppEventMonitor",
+    "description": "Receive keyboard input even when Unity.app is in the background with no focus.",
+    "unity": "2020.3",
+    "author": {
+        "name": "fuziki",
+        "url": "https://github.com/fuziki"
+    }
+}
