@@ -6,7 +6,7 @@
 
 [Unity Native Plugin](https://docs.unity3d.com/Manual/NativePlugins.html) for [NSEvent.addGlobalMonitorForEvents](https://developer.apple.com/documentation/appkit/nsevent/1535472-addglobalmonitorforevents).  
 Receive keyboard input even when Unity.app is in the background with no focus.  
-This Plugin works only on macOS.
+This Plugin works only on macOS.  
 This GIF shows that unity can detect keys entered into TextEdit.
 
 <img src="docs/videos/helloworld.gif" width="800">  
