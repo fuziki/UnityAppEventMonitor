@@ -1,5 +1,9 @@
 # UnityAppEventMonitor
 
+![Platform](https://img.shields.io/badge/platform-%20macOS%2012%2B-lightgrey.svg)
+![Unity](https://img.shields.io/badge/unity-2020%2B-green.svg)
+![Xode](https://img.shields.io/badge/xcode-xcode14-green.svg)
+
 [Unity Native Plugin](https://docs.unity3d.com/Manual/NativePlugins.html) for [NSEvent.addGlobalMonitorForEvents](https://developer.apple.com/documentation/appkit/nsevent/1535472-addglobalmonitorforevents).  
 Receive keyboard input even when Unity.app is in the background with no focus.  
 Works only on macOS.  
