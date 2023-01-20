@@ -29,7 +29,7 @@ Select "Add package form git URL" in the Unity Package Manager and enter the fol
 ## Copy Source
 Copy and paste [Examples/UnityAppEventMonitor/Assets/Plugins/AppEventMonitor](Examples/UnityAppEventMonitor/Assets/Plugins/AppEventMonitor) into your Unity project.
 
-## Accessibility
+## Privacy Settings
 To allow monitoring of keyboard input in the background, you need to add Unity to Accessibility.  
 Open `System Preferences` > `Security & Privacy` > `Privacy` > `Accessibility` and add `Unity.app`.  
 (And `Unity Hub.app` if you use)  
