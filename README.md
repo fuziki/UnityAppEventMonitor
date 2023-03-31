@@ -23,7 +23,7 @@ This GIF shows that unity can detect keys entered into TextEdit.
 
 # Installation
 ## Unity Pakcage Manager (UPM)
-Select "Add package form git URL" in the Unity Package Manager and enter the following path.
+Select "Add package from git URL" in the Unity Package Manager and enter the following path.
 [https://github.com/fuziki/UnityAppEventMonitor.git?path=Examples/UnityAppEventMonitor/Assets/Plugins/AppEventMonitor](https://github.com/fuziki/UnityAppEventMonitor.git?path=Examples/UnityAppEventMonitor/Assets/Plugins/AppEventMonitor)
 
 ## Copy Source
